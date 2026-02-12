@@ -97,3 +97,10 @@ h1 {
 .reset:active {
   opacity: 0.8;
 }
+
+footer {
+  margin-top: 15px;
+  font-size: 12px;
+  opacity: 0.6;
+}
+
